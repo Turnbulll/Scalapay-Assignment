@@ -10,9 +10,9 @@ The application should access the endpoint given then print the data to csv form
  3. Use 'npm test' to run the test cases
 
 Current tests:
-    1. Will verify that csvResponse function is working correctly
-    2. Will verify that the fetch request recieves an 'OK' response
-    3. Will verify the output of the csvReponse after the fetch is called
+ 1. Will verify that csvResponse function is working correctly
+ 2. Will verify that the fetch request recieves an 'OK' response
+ 3. Will verify the output of the csvReponse after the fetch is called
 
 
 
